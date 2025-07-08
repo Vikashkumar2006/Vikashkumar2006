@@ -19,7 +19,7 @@
 
 <!-- HELLO SECTION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tanya+Patel!" alt="HELLO SECTION">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vikash+Kumar+Singh!" alt="HELLO SECTION">
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
@@ -62,20 +62,20 @@ Let’s build something amazing together!<br><br>
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=tanya0404&theme=jolly&hide_border=false&include_all_commits=false&count_private=false" />
+      <img src="https://github-readme-stats.vercel.app/api?username=VikashKumar2006&theme=jolly&hide_border=false&include_all_commits=false&count_private=false" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanya0404&theme=jolly&hide_border=false" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=VikashKumar2006&theme=jolly&hide_border=false" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanya0404&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikashKumar2006&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
     </td>
   </tr>
 </table>
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tanya0404&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=VikashKumar2006&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 
 
@@ -84,11 +84,11 @@ Let’s build something amazing together!<br><br>
 ### 📈 Contribution Graph:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanya0404&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VikashKumar2006&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 <br>
 
 ### 🐍 Snake-Eating My Contribution Graph:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-![snake gif](https://github.com/tanya0404/tanya0404/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/VikashKumar2006/VikashKumar2006/blob/output/github-snake-dark.svg)
